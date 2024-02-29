@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalculateMachine", "CalculateMachine\CalculateMachine.vcxproj", "{883BFA3A-C148-4FB1-9827-020FEB44C462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{883BFA3A-C148-4FB1-9827-020FEB44C462}.Debug|x64.ActiveCfg = Debug|x64
+		{883BFA3A-C148-4FB1-9827-020FEB44C462}.Debug|x64.Build.0 = Debug|x64
+		{883BFA3A-C148-4FB1-9827-020FEB44C462}.Debug|x86.ActiveCfg = Debug|Win32
+		{883BFA3A-C148-4FB1-9827-020FEB44C462}.Debug|x86.Build.0 = Debug|Win32
+		{883BFA3A-C148-4FB1-9827-020FEB44C462}.Release|x64.ActiveCfg = Release|x64
+		{883BFA3A-C148-4FB1-9827-020FEB44C462}.Release|x64.Build.0 = Release|x64
+		{883BFA3A-C148-4FB1-9827-020FEB44C462}.Release|x86.ActiveCfg = Release|Win32
+		{883BFA3A-C148-4FB1-9827-020FEB44C462}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D738F9C-7A5C-4A4E-9E3F-D8DFF7512502}
+	EndGlobalSection
+EndGlobal
